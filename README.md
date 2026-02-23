@@ -1,3 +1,3 @@
 # Twine Minigame 3
 ## Devlog
-Write your Devlog here.
+ How the variables if and else macros work in my game is when the player first starts it explains the story and the questions to move on to the next room. In the beginning it says that it is unbeatable and if they beat the game aka the maze it will unlock at unlockable area that will allow them to escape. But to be able to unlock that area they have to get to the end of the maze which is the end where the code is to grant the player access to be able to see the link which will allow them to escape the whole maze. I chose to use the if macro instead of making a new passage is because i didn't want the players when the first start to find the unlockable area which will allow them to escape, i wanted the players to go thru the entire maze to be able to unlock it so they can actually play the whole game instead of trying to find a way to leave early. 
