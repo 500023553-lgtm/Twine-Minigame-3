@@ -1,0 +1,159 @@
+:: StoryTitle
+Twine Minigame 3
+
+
+:: StoryData
+{
+  "ifid": "60B8FEE4-E75D-4763-A86F-0DDFF3E31479",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Air {"position":"725,925","size":"100,100"}
+Nope this answer is incorrect since this is the last riddle i am going to be evil and make you go all the way back for not getting it correct 
+
+[[Start]]
+
+
+:: Fire {"position":"975,350","size":"100,100"}
+<<set $key to 1>>
+ 
+ Correct you have solved this maze and now can escape this maze 
+ Go back to the start and escape this maze
+ 
+ [[Start]] 
+ 
+
+
+:: Green tunnel {"position":"275,575","size":"100,100"}
+
+[img[https://i.postimg.cc/k537zdxk/Chat-GPT-Image-Feb-20-2026-09-12-57-PM.png]]
+
+You got tricked because this is a dead end,  Go back and find the correct tunnel that continues. 
+
+[[Start]]
+
+
+:: Machine {"position":"1100,625","size":"100,100"}
+So close i wouldv'e picked this answer as well too but it's not the answer to this riddle so since this is the  last riddle i am going to be evil and make you go all the way back for not getting it correct 
+
+[[Start]]
+
+
+
+:: Next {"position":"525,825","size":"100,100"}
+It looks like your almost done with this maze but you have this riddle to solve to make it to the very end 
+So solve this riddle
+
+
+I am not alive, but I can die.
+I don’t breathe, but I need air.
+I don’t have a mouth, but I can devour anything.
+What am I?
+
+[[Fire]]
+
+[[Water]]
+
+[[Air]]
+
+[[Machine]]
+
+
+:: Rag {"position":"725,500","size":"100,100"}
+So close your were almost correct but remeber rags don't have holes in them even though they can hold water so close but the maze went to a dead end.
+
+Go back and choose the correct one to move on 
+
+[[Red Tunnel]]
+
+
+:: Red Tunnel {"position":"475,475","size":"100,100"}
+[img[https://i.postimg.cc/cLy1nKsf/ef7be3d9-a7c8-4e52-acf6-dd714d2202ac.png]]
+
+
+Woah your so smart for choosing the red tunnel most people would not choose this because they believe green is the correct choice but this maze tricks them :)
+
+Anways the riddle is 
+full of holes but holds water i am house hold item. What am i ?
+
+[[Sponge]] 
+
+[[Rag]]
+
+[[Waterbottle]]
+
+
+:: Sponge {"position":"425,675","size":"100,100"}
+
+[img[https://i.postimg.cc/PrhTXg2j/71PSk7Ku-Jg-L-AC.jpg]]
+
+
+
+You were correct Sponges have holes and can hold water as well too way to figure it out. 
+
+ If you  want to continue the maze and escape this maze and finish this game click next 
+ 
+ [[Next]]
+
+
+:: Start {"position":"350,350","size":"100,100"}
+
+
+[img[https://i.postimg.cc/yd2jXvq2/image.png]]
+
+
+You been banished to this maze and need to figure out these riddles in each tunnel (links) to get to the very end of the maze 
+
+choose one of these door (links) to start going thru this maze
+
+
+[[Green tunnel]]
+
+[[Yellow tunnel]]
+
+[[Red Tunnel]]
+
+<<if $key >=1>>
+[[Unlocked Area]]
+<<else>>
+Try to solve this maze. I believe you won't be able to solve this maze
+if you do somehow solve this maze, there will be a unlocked area opened after completing this maze
+<</if>>
+
+
+:: Unlocked Area {"position":"825,175","size":"100,100"}
+<<if $key >= 1>>
+Woah it looks like you have escaped the maze and now have freedom. 
+GREAT JOB FOR ESCAPING THIS MAZE 
+The End 
+<</if>>
+
+
+:: Water {"position":"1150,850","size":"100,100"}
+Nope this answer is incorrect since this is the last riddle i am going to be evil and make you go all the way back for not getting it correct 
+
+[[Start]]
+
+
+:: Waterbottle {"position":"600,600","size":"100,100"}
+Nope incorrect, it holds water but there is zero holes in it though so turn around and go through the correct maze by solving the correct tunnel. 
+
+[[Red Tunnel]]
+
+
+:: Yellow tunnel {"position":"150,475","size":"100,100"}
+
+[img[https://i.postimg.cc/k537zdxk/Chat-GPT-Image-Feb-20-2026-09-12-57-PM.png]]
+
+
+
+
+
+Sorry to tell you this is a dead end. Might want to go back and choose the correct tunnel 
+to continue with the maze
+
+[[Start]]
